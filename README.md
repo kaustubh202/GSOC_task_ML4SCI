@@ -23,8 +23,7 @@ The project addresses three main tasks:
 The repository contains two folders, one for the .ipynb files and another for PDF files of the Jupyter notebook. Each folder has 4 files for
 1. Common task 1 - Autoencoder training
 2. Common task 2 - GNNs for predictions
-3. Specific Task - Normal Diffusion model training
-4. Specific Task - Latent Diffusion training via VAEs
+3. Specific Task - Latent Diffusion training via VAEs
 
 ## Key Observations and Results
 
